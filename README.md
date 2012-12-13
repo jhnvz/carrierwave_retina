@@ -22,7 +22,7 @@ class ExampleUploader < CarrierWave::Uploader::Base
 end
 ```
 
-1. Restart your server and you're now using retina optimzer!
+1. Restart your server and you're now using retina optimizer!
 
 ## Note on Patches/Pull Requests
 
