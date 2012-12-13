@@ -1,4 +1,4 @@
-## CarrierWave Retina Optimzer [![Build Status](https://secure.travis-ci.org/jhnvz/carrierwave_retina.png?branch=master)](http://travis-ci.org/jhnvz/carrierwave_retina)
+## CarrierWave Retina [![Build Status](https://secure.travis-ci.org/jhnvz/carrierwave_retina.png?branch=master)](http://travis-ci.org/jhnvz/carrierwave_retina)
 
 Automatically generates retina versions of your uploaded images
 
