@@ -2,6 +2,11 @@
 
 Automatically generates retina versions of your uploaded images
 
+This project has been merged in https://github.com/jhnvz/retina_rails
+------------
+
+It will not be maintained anymore
+
 Installation
 ------------
 
